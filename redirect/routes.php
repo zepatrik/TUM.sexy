@@ -48,7 +48,7 @@ class Route {
         ],
         'numprog'      => [
             'description' => 'Numerisches Programmieren',
-            'target'      => 'https://www5.in.tum.de/wiki/index.php/Numerisches_Programmieren_-_Summer_18',
+            'target'      => 'https://www.moodle.tum.de/course/view.php?id=41992',
         ],
         'websec'       => [
             'description' => 'WebApplication Security Bachelor Praktikum',
